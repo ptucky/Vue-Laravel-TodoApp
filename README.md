@@ -15,7 +15,9 @@ composer update
 ```
 
 # create a .env file
+```batch
 cp .env.example .env
+```
 
 ## run the migration files to generate the schema
 ```batch
