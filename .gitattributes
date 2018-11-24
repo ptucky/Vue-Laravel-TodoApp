@@ -4,4 +4,4 @@
 *.js linguist-vendored
 CHANGELOG.md export-ignore
 $ cat .gitattributes
-*.rb linguist-language=Javascript
+*.rb linguist-language=JavaScript
