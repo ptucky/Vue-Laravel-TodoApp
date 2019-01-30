@@ -17,6 +17,7 @@ class TaskController extends Controller
      */
     public function index()
     {
+        //Master
         return Task::latest()->get();
     }
 
